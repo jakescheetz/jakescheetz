@@ -1,6 +1,6 @@
 ### hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">
 
-I'm a security consultant @ NetSPI. I currently work on instructing our NetSPI University program, develop intentionally vulnerable apps, and pentest web applications.
+I'm a Technical Architect @ NetSPI. I currently work on instructing our NetSPI University program, design and devlopment software projecs & maintain infrastructure.
 
 - 🔭 research: web based injection vulnerabilities, machine learning, artificial intelligence & secure development
 - 🌱 hobbies: software engineering, gaming, anime, lifting & cooking
